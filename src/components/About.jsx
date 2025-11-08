@@ -11,7 +11,7 @@ export default function About() {
         <div className="md:ml-10 text-center md:text-left">
           <h2 className="text-3xl font-bold text-blue-800 mb-4">About Our Hospital</h2>
           <p className="text-gray-600 leading-relaxed">
-            MediCare Hospital is committed to providing world-class healthcare services.
+            clickbyte Hospital is committed to providing world-class healthcare services.
             Our dedicated team of professionals ensures that every patient receives personalized,
             compassionate care. We focus on innovation, precision, and patient safety to make your
             health our top priority.
