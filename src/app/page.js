@@ -1,9 +1,21 @@
-import React from 'react'
+import Navbar from "../components/Navbar";
+import Hero from "../components/Hero";
+import Services from "../components/Services";
+import About from "../components/About";
+import Contact from "../components/Contact";
+import Footer from "../components/Footer";
 
-const page = () => {
+export default function Home() {
   return (
-    <div className=' bg-red-300 underline'>Hello World</div>
-  )
+    <>
+      <Navbar />
+      <div className="pt-20"> 
+        <Hero />
+        <Services />
+        <About />
+        <Contact />
+        <Footer />
+      </div>
+    </>
+  );
 }
-
-export default page
