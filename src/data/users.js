@@ -21,4 +21,28 @@ export const usersData = [
     appointmentTime: "2025-11-08T10:00",
     assignedDoctor: "Dr. Sita",
   },
+
+  {
+    id: 3,
+    fullName: "Biraj",
+    email: "biraj@gmail.com",
+    phone: "9801122334",
+    role: "User",
+    gender: "Male",
+    address: "Ktm, Nepal",
+    appointmentTime: "2025-11-08T10:00",
+    assignedDoctor: "Dr. Ravan",
+  },
+  {
+    id: 4,
+    fullName: "Thapa",
+    email: "thapa@gmail.com",
+    phone: "9801122334",
+    role: "User",
+    gender: "Female",
+    address: "Ktm, Nepal",
+    appointmentTime: "2025-11-08T10:00",
+    assignedDoctor: "Dr. Ram",
+  },
+  
 ];
